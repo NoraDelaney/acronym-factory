@@ -4,6 +4,10 @@ class AbbreviationDefinition
   def initialize(input)
     @input = input
   end
+
+  def random
+    
+  end
 end
 
 def main

@@ -1,5 +1,9 @@
 class AbbreviationDefinition
-  # YOUR CODE HERE
+  attr_accessor :input
+
+  def initialize(input)
+    @input = input
+  end
 end
 
 def main
